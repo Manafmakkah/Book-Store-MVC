@@ -58,4 +58,3 @@ This is a Book Store application developed using Spring Boot for the backend and
 ## Jenkins CI/CD
 - The Jenkins pipeline automates the build, test, and deployment processes. It sends notifications upon build success or failure.
 
-```
