@@ -2,6 +2,9 @@
 
 This is a Book Store application developed using Spring Boot for the backend and React for the frontend. It implements a simple MVC architecture, allowing users to view books and admins to manage the inventory.
 
+![home page](https://github.com/user-attachments/assets/31a75c9f-b184-40cb-a727-876f45e32d07)
+
+
 ## Table of Contents
 - [Features](#features)
 - [Technologies](#technologies)
